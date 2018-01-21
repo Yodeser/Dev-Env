@@ -1,0 +1,7 @@
+{
+  "UserSettingsRecorded": true,
+  "Flags": "5",
+  "ProxyServer": "127.0.0.1:8082",
+  "BypassList": "<-loopback>;windows10.microdone.cn",
+  "PacUrl": "http://127.0.0.1:1080/pac?t=20180113174136748&secret=hCB6w4f9J/1Ulh16pKSIq+Z9k3E13lFfqjFHwkErmqM="
+}
